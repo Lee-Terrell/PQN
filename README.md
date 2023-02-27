@@ -1,2 +1,2 @@
 # PQN
-PyQuant Newsl
+PyQuant News
